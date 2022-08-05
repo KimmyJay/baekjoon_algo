@@ -1,1 +1,2 @@
-# baekjoon_algo
+## collection of completed practice problems from
+## baekjoon / codingbat/ codewars
