@@ -1,2 +1,2 @@
-## collection of completed practice problems from
-## baekjoon / codingbat/ codewars
+# collection of completed practice problems from:
+# baekjoon / codingbat/ codewars
